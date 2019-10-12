@@ -1,0 +1,1 @@
+Introduction/Business Problem:I will be analyzing the problem of house sale in Queens area. Viewing the trend of house price and the surrounding of the Queens neighborhood to analyze what the housing price is correlated with.

@@ -1,0 +1,1 @@
+Data:Data used in this project, besides foursquare, are a few historical housing price datasets collected from public data. This is because I am analyzing the correlation of housing price and surrounding neighborhoods.
